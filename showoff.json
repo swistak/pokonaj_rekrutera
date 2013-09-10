@@ -1,9 +1,21 @@
-{ 
-  "name": "Ruby ułatwia życie!", 
-  "sections": [ 
-    {"section":"01.instalacja"},
-    {"section":"02.ruby"} ,
-    {"section":"03.rake"} ,
-    {"section":"04.recepturki"} 
+{
+  "name": "Ty vs Praca",
+  "description": "Generated from mindmup.",
+  "sections": [
+    {
+      "section": "01.krok_0_naszym_celem_jest"
+    },
+    {
+      "section": "02.krok_1_cv_i_list_motywacyjny"
+    },
+    {
+      "section": "03.krok_2_poszukiwanie_pracy"
+    },
+    {
+      "section": "04.krok_3_rozmowa_rekrutacyjna"
+    },
+    {
+      "section": "05.krok_4_negocjacje_placy_i_warunkow"
+    }
   ]
 }
