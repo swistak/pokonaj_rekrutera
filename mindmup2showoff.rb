@@ -100,7 +100,7 @@ sorted_ideas[mup].each_with_index do |rank_idea, index|
       end
 
       make_slide = lambda do
-        f.puts "!SLIDE smaller incremental"
+        f.puts "!SLIDE smaller"
         f.puts
         f.puts "### #{idea["title"]}  ###"
         f.puts "## #{subidea["title"]} ##"
