@@ -6,7 +6,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    background-image: url(/file/assets/background.jpg);
+    background-image: url(./file/assets/background.jpg);
 
     font-family: "DejaVuSansBook",Helvetica,Arial,sans-serif !important;
     line-height: 1.4;
