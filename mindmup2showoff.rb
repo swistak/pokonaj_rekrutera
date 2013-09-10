@@ -55,20 +55,82 @@ if mup["formatVersion"] != 2
   exit 1
 end
 
-showoff["title"] = mup["title"]
+showoff["name"] = mup["title"]
 showoff["description"] = "Generated from mindmup."
 sections = showoff["sections"] = []
 
-sorted_ideas = mup["ideas"].
-  map{|rank, idea| [rank.to_f, idea]}.
-  sort_by{|rank, idea| [-rank/rank.abs, rank] } # Positive first, then negative
+sorted_ideas = lambda{|node|
+  node["ideas"].
+    map{|rank, idea| [rank.to_f, idea]}.
+    sort_by{|rank, idea| [-rank/rank.abs, rank] } # Positive first, then negative
+}
 
-sorted_ideas.each_with_index do |rank_idea, index|
+sorted_ideas[mup].each_with_index do |rank_idea, index|
   rank, idea = *rank_idea
-  dir_name = idea["title"].
-    to_url(:replace_whitespace_with => "_")
+  section_name = idea["title"].to_url(:replace_whitespace_with => "_")
+  dir_name = "%02d.%s" % [index + 1, section_name]
+  mkdir_p dir_name
+  
+  sections.push("section" => dir_name)
 
-  mkdir_p "%02d.%s" % [index, dir_name]
+  file_name = "%02d.%s.md" % [0, "intro"]
+  File.open(File.join(dir_name, file_name), "w") do |f|
+    title, subtitle = idea["title"].split(".", 2)
+    f.puts "!SLIDE"
+    f.puts
+    f.puts "# #{title} #"
+    f.puts "## #{subtitle} ##"
+  end
 
-  p [index, rank, dir_name]
+  sorted_ideas[idea].each_with_index do |subidea_rank, j|
+    subrank, subidea = *subidea_rank
+
+    subsection_name = subidea["title"].to_url(:replace_whitespace_with => "_")
+    file_name = "%02d.%s.md" % [j + 1, subsection_name]
+
+    File.open(File.join(dir_name, file_name), "w") do |f|
+      bullets = []
+
+      collect_bullets = lambda do |node, level|
+        bullets.push([level, node["title"]])
+
+        sorted_ideas[node].each do |r, sn|
+          collect_bullets[sn, level + 1]
+        end if node["ideas"]
+      end
+
+      make_slide = lambda do
+        f.puts "!SLIDE smaller incremental"
+        f.puts
+        f.puts "### #{idea["title"]}  ###"
+        f.puts "## #{subidea["title"]} ##"
+        f.puts
+      end
+
+      make_slide.call
+
+      if subidea["ideas"]
+        sorted_ideas[subidea].each do |r, sn|
+          collect_bullets[sn, 0]
+        end
+
+        counter = 1
+        bullets.each do |bullet|
+          l, text = *bullet
+
+          if counter > 3 && l == 0
+            f.puts; make_slide.call
+            counter = 0
+          end
+
+          f.puts("  "*l + ["-", "*"][l%2] + " " + text)
+          counter += 1
+        end
+      end 
+    end
+  end
+end
+
+File.open("showoff.json", "w") do |f|
+  f.write JSON.pretty_generate(showoff)
 end
