@@ -368,84 +368,84 @@
                     }
                   }
                 },
-                "5": {
-                  "title": "Dostają kasę jeżeli klient cię zatrudni, a ty się nie zwolnisz przez x miesięcy.",
-                  "id": 141,
-                  "ideas": {
-                    "1": {
-                      "title": "Dlatego zrobią WSZYSTKO żebyś cię zatrudnił klient. Włączając..",
-                      "id": 142,
-                      "ideas": {
-                        "1": {
-                          "title": "Kłamstwa (tobie i klientowi).",
-                          "id": 143,
-                          "ideas": {
-                            "1": {
-                              "title": "Tobie o kondycji i atmosferze firmy.",
-                              "id": 146
-                            },
-                            "2": {
-                              "title": "Pracodawcy o twoich umiejętnościach.",
-                              "id": 150
-                            }
-                          }
-                        },
-                        "2": {
-                          "title": "Przekonają cię że nie nadajesz się na wyższe stanowisko.",
-                          "id": 151,
-                          "ideas": {
-                            "1": {
-                              "title": "Tylko po to żeby mieć 100% pewność że dostaniesz niższe stanowisko. zamiast szansy na wyższe.",
-                              "id": 152
-                            }
-                          }
-                        },
-                        "1.5": {
-                          "title": "Fałszowanie CV",
-                          "id": 144,
-                          "ideas": {}
-                        }
-                      }
-                    },
-                    "3": {
-                      "title": "Często nie mają umowy o wyłączność.",
-                      "id": 159,
-                      "ideas": {
-                        "1": {
-                          "title": "przez to można zostać NIE zatrudnionym, bo dwóch rekruterów pobije się o prowizję o ciebie.",
-                          "id": 154,
-                          "ideas": {}
-                        },
-                        "2": {
-                          "title": "wielu nie powie ci nazwy klienta zanim nie podpiszesz NDA",
-                          "id": 157,
-                          "ideas": {}
-                        },
-                        "3": {
-                          "title": "i będą marnować twój czas.",
-                          "id": 160,
-                          "ideas": {
-                            "1": {
-                              "title": "bo wiesz jaki zajeb i warunki są w Sabre",
-                              "id": 161
-                            },
-                            "2": {
-                              "title": "bo inny rekruter już podesłał im twoje CV",
-                              "id": 162
-                            },
-                            "3": {
-                              "title": "bo już tam pracowałeś, i przekonałeś sie osobiście dlaczego muszą płacić rekruterom żeby znaleźć niewolników, tfu. pracowników.",
-                              "id": 163
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                },
                 "3.5": {
                   "title": "Potrafią być kurewsko upierdliwi.",
                   "id": 155
+                }
+              }
+            },
+            "5": {
+              "title": "Dostają kasę jeżeli klient cię zatrudni, a ty się nie zwolnisz przez x miesięcy.",
+              "id": 141,
+              "ideas": {
+                "1": {
+                  "title": "Dlatego zrobią WSZYSTKO żebyś cię zatrudnił klient. Włączając..",
+                  "id": 142,
+                  "ideas": {
+                    "1": {
+                      "title": "Kłamstwa (tobie i klientowi).",
+                      "id": 143,
+                      "ideas": {
+                        "1": {
+                          "title": "Tobie o kondycji i atmosferze firmy.",
+                          "id": 146
+                        },
+                        "2": {
+                          "title": "Pracodawcy o twoich umiejętnościach.",
+                          "id": 150
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Przekonają cię że nie nadajesz się na wyższe stanowisko.",
+                      "id": 151,
+                      "ideas": {
+                        "1": {
+                          "title": "Tylko po to żeby mieć 100% pewność że dostaniesz niższe stanowisko. zamiast szansy na wyższe.",
+                          "id": 152
+                        }
+                      }
+                    },
+                    "1.5": {
+                      "title": "Fałszowanie CV",
+                      "id": 144,
+                      "ideas": {}
+                    }
+                  }
+                }
+              }
+            },
+            "15": {
+              "title": "Często nie mają umowy o wyłączność.",
+              "id": 159,
+              "ideas": {
+                "1": {
+                  "title": "przez to można zostać NIE zatrudnionym, bo dwóch rekruterów pobije się o prowizję o ciebie.",
+                  "id": 154,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "wielu nie powie ci nazwy klienta zanim nie podpiszesz NDA",
+                  "id": 157,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "i będą marnować twój czas.",
+                  "id": 160,
+                  "ideas": {
+                    "1": {
+                      "title": "bo wiesz jaki zajeb i warunki są w Sabre",
+                      "id": 161
+                    },
+                    "2": {
+                      "title": "bo inny rekruter już podesłał im twoje CV",
+                      "id": 162
+                    },
+                    "3": {
+                      "title": "bo już tam pracowałeś, i przekonałeś sie osobiście dlaczego muszą płacić rekruterom żeby znaleźć niewolników, tfu. pracowników.",
+                      "id": 163
+                    }
+                  }
                 }
               }
             }
