@@ -123,7 +123,7 @@ sorted_ideas[mup].each_with_index do |rank_idea, index|
             counter = 0
           end
 
-          f.puts("  "*l + ["-", "*"][l%2] + " " + text)
+          f.puts("    "*l + ["-", "*"][l%2] + " " + text)
           counter += 1
         end
       end 
