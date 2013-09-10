@@ -57,7 +57,7 @@ end
 
 showoff["name"] = mup["title"]
 showoff["description"] = "Generated from mindmup."
-sections = showoff["sections"] = []
+sections = showoff["sections"] = [{"section" => "00.title"}]
 
 sorted_ideas = lambda{|node|
   node["ideas"].

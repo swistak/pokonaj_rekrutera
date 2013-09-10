@@ -1,3 +1,14 @@
 Prezentacja - Pokonaj Rekrutera
 
+USAGE:
 
+# Generates showoff.json & slides
+ruby mindmup2showoff.rb pokonaj_rekrutera.mup
+
+# Generates static version
+ruby ~/path/to/your/bin/showoff static
+
+# serves files
+ruby ~/path/to/your/bin/showoff serve
+
+works only with edge showoff
