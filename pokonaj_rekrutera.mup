@@ -1,0 +1,688 @@
+{
+  "title": "Ty vs Praca",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "21": {
+      "title": "Krok 1. CV i List motywacyjny.",
+      "id": 41,
+      "ideas": {
+        "6": {
+          "title": "Zasady tworzenia zmieniają się z ...",
+          "id": 48,
+          "ideas": {
+            "1": {
+              "title": "czasem.",
+              "id": 49,
+              "ideas": {
+                "1": {
+                  "title": "Przeczytaj książki (aktualne!).",
+                  "id": 42,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": " Poczytaj prasę.",
+                  "id": 50
+                },
+                "0.5": {
+                  "title": "Trendy się zmieniają.",
+                  "id": 44
+                }
+              }
+            },
+            "2": {
+              "title": "krajem.",
+              "id": 51,
+              "ideas": {
+                "1": {
+                  "title": "Czytaj poradniki dla konkretnego kraju.",
+                  "id": 52,
+                  "ideas": {
+                    "1": {
+                      "title": "W Niemczech zdjęcie w CV jest praktycznie obowiązkowe.",
+                      "id": 53
+                    },
+                    "2": {
+                      "title": "W Anglii im dłuższe CV tym lepiej. W Polsce nie należy przekraczać2 stron A4",
+                      "id": 54
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "zawodem.",
+              "id": 55,
+              "ideas": {
+                "1": {
+                  "title": "Generalne poradniki są praktycznie bezużyteczne.",
+                  "id": 56,
+                  "ideas": {
+                    "1": {
+                      "title": "Czytaj konkretne porady dla swojej branży.",
+                      "id": 57
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "stanowiskiem.",
+              "id": 58,
+              "ideas": {
+                "1": {
+                  "title": "Inaczej piszesz CV po studiach. Inaczej na Lead Developera.",
+                  "id": 59
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "31": {
+      "title": "Krok 2. Poszukiwanie pracy",
+      "id": 12,
+      "ideas": {
+        "1": {
+          "title": "Samemu",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Ogłoszenia",
+              "id": 16,
+              "ideas": {
+                "1": {
+                  "title": "Fora tematyczne",
+                  "id": 89,
+                  "ideas": {
+                    "1": {
+                      "title": "nie ma sensu zaglądać gdziekolwiek indziej.",
+                      "id": 91
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Nigdy nie zamieszczaj CV online w portalach / bazach danych.",
+                  "id": 92
+                },
+                "3": {
+                  "title": "Unikaj jak ognia agencji (rekrutacyjnych/interaktywnych).",
+                  "id": 93,
+                  "ideas": {
+                    "1": {
+                      "title": "\"Szukamy dla naszego klienta\" - powinno skreślać ogłoszenie.",
+                      "id": 94
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Strony firm",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Tip: Sprawdź strony \"zespół\", \"o nas\".",
+                  "id": 95,
+                  "ideas": {
+                    "1": {
+                      "title": "Często rekrutacja jest tam schowana.",
+                      "id": 99
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Do mniejszych firm warto CV wysłać tak czy tak.",
+                  "id": 97,
+                  "ideas": {
+                    "1": {
+                      "title": "Często są zbyt zajęte robotą żeby aktualizować stronę rekrutacji (syndrom szewca)",
+                      "id": 98
+                    }
+                  }
+                }
+              }
+            },
+            "0.5": {
+              "title": "Znajomi",
+              "id": 18,
+              "ideas": {
+                "1": {
+                  "title": "Najlepsze firmy rekrutują przez polecenie",
+                  "id": 100,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Dobry znajomy powie ci czy warto pracować w danej firmie.",
+                  "id": 102,
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "Znajomy powie ci że robota jest świetna, przeprowadzi cię przez rozmowę kwalifikacyjną.",
+                  "id": 104,
+                  "ideas": {
+                    "1": {
+                      "title": "Tylko po to żeby zgarnąć prowizję za rekrutację.",
+                      "id": 105,
+                      "ideas": {
+                        "1": {
+                          "title": "Którą jego kretyńska korporka daje bo myśli że można kupić sobie lojalność.",
+                          "id": 106,
+                          "ideas": {
+                            "1": {
+                              "title": "Trochę lepszy kolega przynajmniej podzieli się z tobą kasą.",
+                              "id": 107
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Niech znajdą ciebie",
+          "id": 22,
+          "ideas": {
+            "1": {
+              "title": "Konferencje",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Sprawdź kalendarz.",
+                  "id": 112
+                },
+                "2": {
+                  "title": "Jeźdź na te darmowe i/lub tanie: Euruko, Rupy, etc.",
+                  "id": 113,
+                  "ideas": {
+                    "1": {
+                      "title": "Wszystko co kosztuje więcej niż 1k PLN olej. Jak jest w pobliżu to pójdź na afterparty.",
+                      "id": 114
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Jak już była, sprawdź kiedy będzie następna, i co miesiąc sprawdzaj czy nie ma \"call for papers\"",
+                  "id": 115,
+                  "ideas": {
+                    "1": {
+                      "title": "Jak jest, to wyślij swoja propozycję.",
+                      "id": 116,
+                      "ideas": {
+                        "1": {
+                          "title": "Jak się zakwalifikujesz masz darmową konferencję.",
+                          "id": 117
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Open Source",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "Przekonaj swojego pracodawce żeby open sourcnąć bibliotekę.",
+                  "id": 118,
+                  "ideas": {
+                    "1": {
+                      "title": "Ważna jest strona i readme!",
+                      "id": 119
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Jak masz za dużo czasu stwórz coś własnego - najlepiej ecommerce w chmurze.",
+                  "id": 120,
+                  "ideas": {
+                    "1": {
+                      "title": "Serio, ecommerce w chmurze, albo mobilne.",
+                      "id": 121,
+                      "ideas": {
+                        "1": {
+                          "title": "Tutaj jeszcze bardziej niż gdzie indziej ważna jest strona, design, readme (w tej kolejności).",
+                          "id": 122
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Blogi",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Jak już naprawdę nie masz co z czasem robić.",
+                  "id": 123
+                },
+                "2": {
+                  "title": "Albo lubisz się dzielić.",
+                  "id": 124
+                },
+                "3": {
+                  "title": "Przekonaj pracodawcę żeby ci płacił za prowadzenie bloga firmowego.",
+                  "id": 125,
+                  "ideas": {
+                    "1": {
+                      "title": "repostuj artykuły na swojego bloga (za pozwoleniem pracodawcy oczywiście).",
+                      "id": 126
+                    }
+                  }
+                }
+              }
+            },
+            "0.5": {
+              "title": "Linkedin",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "Trzymaj aktualny profil.",
+                  "id": 108
+                },
+                "2": {
+                  "title": "Postaraj się o rekomendacje.",
+                  "id": 109
+                },
+                "3": {
+                  "title": "itp. itd. Linked jest dobry w podpowiadaniu ci co i jak.",
+                  "id": 110
+                },
+                "4": {
+                  "title": "Nie bądź dupkiem. Nie spamuj swojej listy kontaktów.",
+                  "id": 111
+                }
+              }
+            }
+          }
+        },
+        "13": {
+          "title": "Rekruterzy",
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "Plusy",
+              "id": 19,
+              "ideas": {
+                "1": {
+                  "title": "Oszczędzasz czas.",
+                  "id": 127
+                },
+                "2": {
+                  "title": "Często jedyna szansa na oferty z wyższej półki.",
+                  "id": 128
+                },
+                "3": {
+                  "title": "Często pomogą negocjować płacę. Ich wynagrodzenie zależy od twojego",
+                  "id": 129
+                }
+              }
+            },
+            "2": {
+              "title": "Minusy",
+              "id": 20,
+              "ideas": {
+                "1": {
+                  "title": "Stawki rekruterów to często twoje wynagrodzenie miesięczne x 2.",
+                  "id": 132,
+                  "ideas": {
+                    "1": {
+                      "title": "Albo do 50% twojego wynagrodzenia.",
+                      "id": 133,
+                      "ideas": {
+                        "1": {
+                          "title": "O tyle mniej zarabiasz niż jakbyś znalazł tą robotę samemu, i potrafił negocjować.",
+                          "id": 134,
+                          "ideas": {
+                            "1": {
+                              "title": "Z drugiej strony często nie dostałbyś tej oferty bez rekrutera.",
+                              "id": 140
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Większość jest chujami.",
+                  "id": 135,
+                  "ideas": {
+                    "1": {
+                      "title": "Angielski termin: Recrucunts",
+                      "id": 148,
+                      "ideas": {
+                        "1": {
+                          "title": "Jestem pewien że niemcy też mają swój",
+                          "id": 149
+                        }
+                      }
+                    }
+                  }
+                },
+                "5": {
+                  "title": "Dostają kasę jeżeli klient cię zatrudni, a ty się nie zwolnisz przez x miesięcy.",
+                  "id": 141,
+                  "ideas": {
+                    "1": {
+                      "title": "Dlatego zrobią WSZYSTKO żebyś cię zatrudnił klient. Włączając..",
+                      "id": 142,
+                      "ideas": {
+                        "1": {
+                          "title": "Kłamstwa (tobie i klientowi).",
+                          "id": 143,
+                          "ideas": {
+                            "1": {
+                              "title": "Tobie o kondycji i atmosferze firmy.",
+                              "id": 146
+                            },
+                            "2": {
+                              "title": "Pracodawcy o twoich umiejętnościach.",
+                              "id": 150
+                            }
+                          }
+                        },
+                        "2": {
+                          "title": "Przekonają cię że nie nadajesz się na wyższe stanowisko.",
+                          "id": 151,
+                          "ideas": {
+                            "1": {
+                              "title": "Tylko po to żeby mieć 100% pewność że dostaniesz niższe stanowisko. zamiast szansy na wyższe.",
+                              "id": 152
+                            }
+                          }
+                        },
+                        "1.5": {
+                          "title": "Fałszowanie CV",
+                          "id": 144,
+                          "ideas": {}
+                        }
+                      }
+                    },
+                    "3": {
+                      "title": "Często nie mają umowy o wyłączność.",
+                      "id": 159,
+                      "ideas": {
+                        "1": {
+                          "title": "przez to można zostać NIE zatrudnionym, bo dwóch rekruterów pobije się o prowizję o ciebie.",
+                          "id": 154,
+                          "ideas": {}
+                        },
+                        "2": {
+                          "title": "wielu nie powie ci nazwy klienta zanim nie podpiszesz NDA",
+                          "id": 157,
+                          "ideas": {}
+                        },
+                        "3": {
+                          "title": "i będą marnować twój czas.",
+                          "id": 160,
+                          "ideas": {
+                            "1": {
+                              "title": "bo wiesz jaki zajeb i warunki są w Sabre",
+                              "id": 161
+                            },
+                            "2": {
+                              "title": "bo inny rekruter już podesłał im twoje CV",
+                              "id": 162
+                            },
+                            "3": {
+                              "title": "bo już tam pracowałeś, i przekonałeś sie osobiście dlaczego muszą płacić rekruterom żeby znaleźć niewolników, tfu. pracowników.",
+                              "id": 163
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "3.5": {
+                  "title": "Potrafią być kurewsko upierdliwi.",
+                  "id": 155
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-51": {
+      "title": "Krok 3. Rozmowa rekrutacyjna",
+      "id": 13,
+      "ideas": {
+        "2": {
+          "title": "Kadrowi są najczęściej niekompetentni",
+          "id": 29,
+          "ideas": {
+            "1": {
+              "title": "Nie szkodzi. Sprawia to że cały proces jest przewidywalny.",
+              "id": 31,
+              "ideas": {
+                "1": {
+                  "title": "99% Rekruterów, przeprowadza rozmowę z książki.",
+                  "id": 37,
+                  "ideas": {
+                    "1": {
+                      "title": "Więc ... Czytaj książek jak przechodzić rozmowę kwalifikacyjną.",
+                      "id": 38,
+                      "ideas": {
+                        "1": {
+                          "title": "Większość dobrze radzi.",
+                          "id": 40
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Można przeczytać o książki o rekrutacji.",
+                      "id": 39
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "\"Techniczni\" najczęściej nie mają pojęcia jak przeprowadzać rozmowę kwalifikacyjną.",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "Najczęściej używają pytań które sami przechodzili na rozmowie kwalifikacyjnej.",
+              "id": 33,
+              "ideas": {
+                "1": {
+                  "title": "Jak nie, to  z internetu. Albo z ksiązek.",
+                  "id": 64
+                },
+                "2": {
+                  "title": "W ostateczności dostaniesz pytanie jak rozwiązać problem nad którym się sami właśnie męczą.",
+                  "id": 65
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Inne zasady obowiązują dla programisty, inne dla wyższych stanowisk.",
+          "id": 60,
+          "ideas": {
+            "1": {
+              "title": "Na wyższych stanowiskach 90% to gadane. Techniczny interview jest zwykle najmniejszym problemem.",
+              "id": 61
+            }
+          }
+        },
+        "7": {
+          "title": "Mów ...",
+          "id": 80,
+          "ideas": {
+            "1": {
+              "title": "jak najwięcej",
+              "id": 81,
+              "ideas": {
+                "1": {
+                  "title": "Czas rozmowy jest ograniczony.",
+                  "id": 70,
+                  "ideas": {
+                    "1": {
+                      "title": "Im więcej ty mówisz, tym mniej pytań oni zadają.",
+                      "id": 71
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": " co ludzie chcą usłyszeć.",
+              "id": 34,
+              "ideas": {
+                "1": {
+                  "title": "Chyba że celujesz w wysokie stanowisko i masz jaja ze stali, i gadane oczywiście.",
+                  "id": 35
+                }
+              }
+            },
+            "3": {
+              "title": "prawdę",
+              "id": 72,
+              "ideas": {
+                "1.5": {
+                  "title": "ale są różne sposoby powiedzenia \"code monkey\"",
+                  "id": 73,
+                  "ideas": {
+                    "1": {
+                      "title": "\"No, kodowałem tydzień nad tym projektem.\"",
+                      "id": 74
+                    },
+                    "2": {
+                      "title": "\"Byłem członkiem zwinnego zespołu, który stworzył rozwiązanie używane obecnie przez McDonalds i Hilton\"",
+                      "id": 75,
+                      "ideas": {}
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "że czegoś nie wiesz.",
+              "id": 82,
+              "ideas": {
+                "3": {
+                  "title": "byle jak najrzadziej.",
+                  "id": 86
+                },
+                "4": {
+                  "title": "W żadnym wypadku nie strzelaj.",
+                  "id": 87
+                },
+                "5": {
+                  "title": "Krótko i konkretnie",
+                  "id": 88,
+                  "ideas": {
+                    "1": {
+                      "title": "\"Nie pracowałem jeszcze z tą technologią\"",
+                      "id": 83
+                    },
+                    "2": {
+                      "title": "\"Nie wiem.\"",
+                      "id": 84
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5.5": {
+          "title": "Trening czyni mistrza",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "Naprawdę. Trenuj.",
+              "id": 30,
+              "ideas": {
+                "1": {
+                  "title": "Nie żartuję.",
+                  "id": 36
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-46": {
+      "title": "Krok 4. Negocjacje płacy i warunków.",
+      "id": 164,
+      "ideas": {
+        "1": {
+          "title": "Płaca, Samorealizacja, twoja wartość.",
+          "id": 165,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Gotówka vs. inne benefity",
+          "id": 167
+        },
+        "3": {
+          "title": "Praca zdalna.",
+          "id": 168
+        },
+        "4": {
+          "title": "Ubezpieczenia, multisport etc.",
+          "id": 169
+        },
+        "5": {
+          "title": "Open Source",
+          "id": 170
+        }
+      }
+    },
+    "10.5": {
+      "title": "Krok 0. Naszym celem jest?",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Zdobycie pracy!",
+          "id": 3,
+          "ideas": {}
+        },
+        "2": {
+          "title": "A po co nam praca?",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Dla pieniędzy",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "Potem dla samorealizacji.",
+                  "id": 10
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 26,
+      "ideaIdTo": 14,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}

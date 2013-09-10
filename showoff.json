@@ -1,0 +1,9 @@
+{ 
+  "name": "Ruby ułatwia życie!", 
+  "sections": [ 
+    {"section":"01.instalacja"},
+    {"section":"02.ruby"} ,
+    {"section":"03.rake"} ,
+    {"section":"04.recepturki"} 
+  ]
+}
